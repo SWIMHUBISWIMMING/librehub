@@ -81,7 +81,7 @@ local Fonts, Images = LPH_JIT(function()
 	local HttpService = game:GetService("HttpService")
 
 	local Fonts = {
-		URL = "https://svo.monster/corrupted/assets/",
+		URL = "https://raw.githubusercontent.com/SWIMHUBISWIMMING/librehub/refs/heads/main/assets/",
 
 		Names = {
 			"Tahoma",
@@ -139,7 +139,7 @@ local Fonts, Images = LPH_JIT(function()
 	end
 
 	local Images = {
-		URL = "https://svo.monster/corrupted/assets/",
+		URL = "https://raw.githubusercontent.com/SWIMHUBISWIMMING/librehub/refs/heads/main/assets/",
 
 		Names = {
 			"combat",
